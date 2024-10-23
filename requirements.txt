@@ -1,0 +1,5 @@
+streamlit
+requests
+datetime
+pandas
+streamlit_lightweight_charts
